@@ -4,7 +4,8 @@ description: Audit the tools and infrastructure provided to the supply side of a
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.3714
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - creator-tools-audit
 - writing
